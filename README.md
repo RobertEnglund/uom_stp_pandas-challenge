@@ -8,7 +8,7 @@
 GitHub has problems rendering some of the output (see screenshot of Slack conversation with TAs, below).
 Screenshots of jupyter output in Images folder
 
-![Screenshot](Images/GitHub_rendering_slack_with_TAs.png)
+![Education](Images/GitHub_rendering_slack_with_TAs.png)
 
 
 ### Before You Begin
