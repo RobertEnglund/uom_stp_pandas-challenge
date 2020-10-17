@@ -4,6 +4,13 @@
 ### Week 4:  Introduction to Pandas 
 ### Home work due: 10/17/2020
 
+## Note to grader
+GitHub has problems rendering some of the output (see screenshot of Slack conversation with TAs, below).
+Screenshots of jupyter output in Images folder
+
+![Screenshot](Images/GitHub_rendering_slack_with_TAs.png)
+
+
 ### Before You Begin
 
 1. Create a new repository for this project called `pandas-challenge`. **Do not add this homework to an existing repository**.
