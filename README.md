@@ -5,10 +5,8 @@
 ### Home work due: 10/17/2020
 
 ## Note to grader
-GitHub has problems rendering some of the output (see screenshot of Slack conversation with TAs, below).
+GitHub has problems rendering some of the output (see screenshot of Slack conversation with TAs, in Images folder).
 Screenshots of jupyter output in Images folder
-
-![Education](Images/GitHub_rendering_slack_with_TAs.png)
 
 
 ### Before You Begin
